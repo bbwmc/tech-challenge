@@ -1,0 +1,10 @@
+{
+  "reviews": [
+    { "id": 1, "review": "I had an absolutely fantastic stay!", "live": false },
+    { "id": 2, "review": "I had too much Jaeger and saw Mickey mOuSe having a bowl of noodles on my bed.", "live": false },
+    { "id": 3, "review": "I lost my Apple iPhone at your hostel.", "live": false },
+    { "id": 4, "review": "Great staff on reception and in the bar. Mickey took us on an epic walking tour, what a legend!", "live": false },
+    { "id": 5, "review": "The apples served at breakfast had no flavour.", "live": false }
+  ],
+  "words": ["apple", "mickey mouse", "noodles"]
+}
